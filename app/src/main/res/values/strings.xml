@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Animal For Funn</string>
+
+    <string name="question">ภาพต่อไปนี้เป็นเงาของสัตว์ของชนิดใด</string>
+
+
 </resources>
